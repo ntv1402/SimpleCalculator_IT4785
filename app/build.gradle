@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.bn2002.simplecalculator'
+    namespace 'com.ntv1402.simplecalculator'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.bn2002.simplecalculator"
+        applicationId "com.ntv1402.simplecalculator"
         minSdk 26
         targetSdk 33
         versionCode 1
