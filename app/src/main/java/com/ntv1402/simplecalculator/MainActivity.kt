@@ -1,9 +1,9 @@
-package com.bn2002.simplecalculator
+package com.ntv1402.simplecalculator
 
 import android.os.Bundle
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
-import com.bn2002.simplecalculator.databinding.ActivityMainBinding
+import com.ntv1402.simplecalculator.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
