@@ -1,4 +1,4 @@
-package com.bn2002.simplecalculator
+package com.ntv1402.simplecalculator
 
 import org.junit.Test
 
